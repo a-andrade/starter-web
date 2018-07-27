@@ -24,6 +24,6 @@ can be on any web server or even local file system.
 
 Please fork this repository and then issue pull request for review
 
-###Copyright
+### Copyright
 
 2014 Git.Training.
