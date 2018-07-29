@@ -2,8 +2,7 @@
 
 This is a simple website project for
 showing how to use Git and GitHub together.
-Adding a line for rebasing example, then more
-changes ffrom myfeature branch too.
+Updating emergency fix after stashing.
 
 # Introduction
 
